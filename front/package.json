@@ -1,4 +1,10 @@
 {
+	"name": "black-label",
+	"version": "1.0.0",
+	"private": true,
+	"scripts":{
+		"bootstrap": "lerna bootsrap"
+	},
 	"devDependencies": {
 		"lerna": "^2.11.0"
 	}
