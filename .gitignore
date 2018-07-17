@@ -1,0 +1,12 @@
+# VSCode
+.vscode/
+.history/
+
+# OSX
+.DS_Store
+
+#Webstorm
+.idea/
+
+#Atom
+.atom
